@@ -63,11 +63,11 @@ $dbname     = "Ecommerce";
 - Extendable for payment gateways, shipping APIs, and user roles.
 
 # Images
-![Alt text](img/indexf.png)
-![Alt text](img/indexh.png)
-![Alt text](img/explore.png)
-![Alt text](img/pdp.png)
-![Alt text](img/admin.png)
+![Alt text](img/indexf.jpeg)
+![Alt text](img/indexh.jpeg)
+![Alt text](img/explore.jpeg)
+![Alt text](img/pdp.jpeg)
+![Alt text](img/admin.jpeg)
 
 
 
