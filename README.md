@@ -20,7 +20,7 @@ An Ecommerce web application built with PHP and MySQL. It provides customer mana
 
 # 🚀 Installation
 - Clone the repository
-git clone https://github.com/0xn7y/ecommerce.git
+git clone https://github.com/0xN7y/E-commerce.git
 cd ecommerce
 - Setup Database
 - Ensure MySQL is running.
