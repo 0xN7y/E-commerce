@@ -18,7 +18,7 @@ An Ecommerce web application built with PHP and MySQL. It provides customer mana
 - App Settings
 - Configurable demo mode for pricing
 
-# 🚀 Installation
+#  Installation
 - Clone the repository
 git clone https://github.com/0xN7y/E-commerce.git
 cd ecommerce
