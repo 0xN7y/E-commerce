@@ -65,6 +65,7 @@ $dbname     = "Ecommerce";
 # Images
 ![Alt text](img/indexf.jpeg)
 ![Alt text](img/indexh.jpeg)
+![Alt text](img/userpay.jpeg)
 ![Alt text](img/explore.jpeg)
 ![Alt text](img/pdp.jpeg)
 ![Alt text](img/admin.jpeg)
